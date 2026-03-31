@@ -20,8 +20,10 @@ This project demonstrates the application of Deep Learning in real-world problem
 ---
 
 ## Dataset Structure
+
 The dataset is organized as:
 
+```
 dataset/
 ├── train/
 │   ├── freshapples/
@@ -30,6 +32,7 @@ dataset/
 │   ├── rottenapples/
 │   ├── rottenbanana/
 │   └── rottenoranges/
+│
 └── test/
     ├── freshapples/
     ├── freshbanana/
@@ -37,6 +40,7 @@ dataset/
     ├── rottenapples/
     ├── rottenbanana/
     └── rottenoranges/
+```
 
 ---
 
